@@ -19,7 +19,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:furlanettiguilherme@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=DmwnWrRrlJJMVxssnQKmsTWbRkrDqGBCzHnWlTvrqHdmlsKPTfGBRzScbsZnlGxwFVMDglWkFmtv">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/guilherme-furlanetti-267a00302/" target="_blank">
