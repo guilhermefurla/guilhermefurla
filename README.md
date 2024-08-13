@@ -19,12 +19,12 @@
  </div>
  
 <div align="center"> 
-  <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=DmwnWrRrlJJMVxssnQKmsTWbRkrDqGBCzHnWlTvrqHdmlsKPTfGBRzScbsZnlGxwFVMDglWkFmtv">
+<!--   <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox?compose=DmwnWrRrlJJMVxssnQKmsTWbRkrDqGBCzHnWlTvrqHdmlsKPTfGBRzScbsZnlGxwFVMDglWkFmtv">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/guilherme-furlanetti-267a00302/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>l
+  </a>
 </div>
 
  <hr/>
