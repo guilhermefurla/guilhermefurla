@@ -38,16 +38,14 @@
 
 <br/>
 <hr/>
-
+<!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 </div>
-
 ![snake gif](https://github.com/guilhermefurla/guilhermefurla/blob/output/github-contribution-grid-snake.svg)
 
 <hr/>
-<!--
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
