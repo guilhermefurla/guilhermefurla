@@ -69,3 +69,5 @@
 </div>
 
 <br/>
+
+![snake gif](https://github.com/guilhermefurla/guilhermefurla/blob/output/github-contribution-grid-snake.gif)
